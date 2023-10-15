@@ -43,7 +43,9 @@ qualified = Standing("Qualified", 3, 100)
 matchup = matchups.pop(0)
 day = 0
 standings = [zerozero, onezero, zeroone, twozero, oneone, zerotwo, twoone, onetwo, twotwo, qualified]
-print("Type h for help\n Type s for Standings\n Type r for record of all teams \n Type m for next match \n Type d for all matches for the day \n Type q to quit")
+print("Type h for help\n Type s for Standings\n Type r for record of all teams \n Type m for next match \n Type d for all matches for the day \n Type q to quit")]
+print("Matchup: " + matchup[0].name + " vs." + matchup[1].name)
+print("Type 1 for team 1, 2 for team2")
 while(True):
     response = input()
     if response == "h":
