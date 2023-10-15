@@ -1,0 +1,17 @@
+0-0         1-0         0-1         2-0         1-1         0-2         2-1         1-2         2-2         Qualified         
+T1          T1          TL          BLG         LNG         G2          Gen.g       TL          DK          JDG         
+TL          MAD         Cloud9      Gen.g       WBG         NRG         DK          MAD         Cloud9      BLG         
+Cloud9      Gen.g       Gam         DK          MAD         BDS         LNG         Fnatic      LNG         T1          
+MAD         JDG         BDS         JDG         T1          Gam         Cloud9      WBG         G2          KT          
+Gen.g       DK          G2                      KT                      KT          NRG         NRG         Gen.g       
+Gam         WBG         NRG                     Fnatic                  T1          G2          WBG         LNG         
+JDG         LNG         Fnatic                  Cloud9                                                      DK          
+BDS         BLG         KT                      TL                                                          G2          
+G2                                                                                                                      
+DK                                                                                                                      
+NRG                                                                                                                     
+WBG                                                                                                                     
+Fnatic                                                                                                                  
+LNG                                                                                                                     
+BLG                                                                                                                     
+KT                                                                                                                      
